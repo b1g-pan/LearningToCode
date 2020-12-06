@@ -1,6 +1,12 @@
 <!DOCTYPEcss>
 
 body *{
-background-image:"AutumnLeaves.bkgnd_web.jpg" 100% no-repeat position:center cover 0.5em;
+background-image:"AutumnLeaves.bkgnd_web.jpg"
+100%;
+no-repeat;
+position:center;
+cover;
+border:none;
+padding:10px;
 }
 
