@@ -1,0 +1,4 @@
+# LearningToCode
+Diving headfirst into web development
+
+This repo ia my first engagement with the world of web development. I have no formal training, so learning has been slow. If you happen upon any of my work, feel free to offer suggestions or say hi. Help and constructive criticism are surely welcome. I recently (feb 2021) started getting acquainted with VS Code; Node, Chocolatey (Dec 2020); and Git/GitHub (Oct 2020). Most recently (Mar 2021), I enrolled in a free course offered by Harvard's edx program, CS50, wherein I've been learning more about html, css, js and python. Perhaps one day I'll actually have skills enough to contribute some meaningful work to the world via this now ubiquitous channel called the world wide web. I will continue adding material on GitHub periodically as I further my self-directed education within this wildly diverse and expansive, ever-exciting industry.
